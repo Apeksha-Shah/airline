@@ -20,33 +20,15 @@ Each service is independently deployable and interacts via REST APIs.
 
 ---
 
-## 🧭 Access services in the browser
-
-- 🔹 [Check-In Service](http://localhost:8001/checkin.html)  
-- 🔹 [Seat & Baggage Service](http://localhost:8000/seat-baggage.html)  
-- 🔹 [Payment Service](http://localhost:8080/payment.html)  
-
----
-
-## 🚀 How to Run
-
-1. Clone each service into a separate folder or repo.
-2. Make sure each one has a different port set in `application.properties`.
-3. Run each service using:
-
-   ```bash
-   ./mvnw spring-boot:run
-
-   ```
-4. Open the HTML pages in your browser as listed above.
 
 ## Sceenshots
 
-![Image](https://github.com/user-attachments/assets/a902d5f6-7d97-4b93-89a0-8f3855ecf4f4)
+![Image](https://github.com/user-attachments/assets/00654e02-d21f-4269-9878-2436e4d970c2)
 
-![Image](https://github.com/user-attachments/assets/5ea59595-6ed7-4aeb-a109-9849932f5565)
 
-![Image](https://github.com/user-attachments/assets/70e4b21e-ea54-4f0f-a8d0-a9e52d5be403)
+![Image](https://github.com/user-attachments/assets/cc4aafe1-b35a-4339-851f-54238504a788)
 
-![Image](https://github.com/user-attachments/assets/fe989fd2-9d31-4645-90a2-215bc013a839)
+![Image](https://github.com/user-attachments/assets/7d4e8606-307c-426b-953b-b4f7f1b88b06)
+
+![Image](https://github.com/user-attachments/assets/f6e09ad5-f7e5-44c6-880a-8dff2c6207ee)
 
